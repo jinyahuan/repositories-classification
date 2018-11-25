@@ -1,20 +1,31 @@
 # repositories-classification
 there has some classification of repositories
 
-* icon https://github.com/jinyahuan/repositories-classification/blob/master/icon.md
+* [icon][icon_uri]
 
-* interview https://github.com/jinyahuan/repositories-classification/blob/master/interview.md
+* [interview][interview_uri]
 
-* javascript-library https://github.com/jinyahuan/repositories-classification/blob/master/javascript-library.md
+* [javascript-library][javascript-library_uri]
 
-* machine-learning https://github.com/jinyahuan/repositories-classification/blob/master/machine-learning.md
+* [machine-learning][machine-learning_uri]
 
-* programming-language https://github.com/jinyahuan/repositories-classification/blob/master/programming-language.md
+* [programming-language][programming-language_uri]
 
-* software https://github.com/jinyahuan/repositories-classification/blob/master/software.md
+* [software][software_uri]
 
-* web-component https://github.com/jinyahuan/repositories-classification/blob/master/web-component.md
+* [web-component][web-component_uri]
 
-* web-server https://github.com/jinyahuan/repositories-classification/blob/master/web-server.md
+* [web-server][web-server_uri]
 
-* web-ui https://github.com/jinyahuan/repositories-classification/blob/master/web-ui.md
+* [web-ui][web-ui_uri]
+
+
+[icon_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/icon.md
+[interview_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/interview.md
+[javascript-library_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/javascript-library.md
+[machine-learning_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/machine-learning.md
+[programming-language_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/programming-language.md
+[software_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/software.md
+[web-component_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/web-component.md
+[web-server_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/web-server.md
+[web-ui_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/web-ui.md
