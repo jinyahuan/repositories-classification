@@ -1,5 +1,7 @@
 # interview
 
+https://github.com/leonardomso/33-js-concepts
+
 https://github.com/MaximAbramchuck/awesome-interview-questions
 
 https://github.com/binhnguyennus/awesome-scalability
