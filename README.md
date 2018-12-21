@@ -7,6 +7,8 @@ there has some classification of repositories
 
 * [javascript-library][javascript-library_uri]
 
+* [learn][learn_uri]
+
 * [machine-learning][machine-learning_uri]
 
 * [programming-language][programming-language_uri]
@@ -23,6 +25,7 @@ there has some classification of repositories
 [icon_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/icon.md
 [interview_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/interview.md
 [javascript-library_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/javascript-library.md
+[learn_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/learn.md
 [machine-learning_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/machine-learning.md
 [programming-language_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/programming-language.md
 [software_uri]: https://github.com/jinyahuan/repositories-classification/blob/master/software.md
