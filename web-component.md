@@ -1,5 +1,7 @@
 # web component
 
+https://github.com/e-oj/Magic-Grid
+
 https://github.com/piskelapp/piskel
 
 https://github.com/Shopify/draggable
