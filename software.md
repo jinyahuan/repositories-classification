@@ -3,6 +3,7 @@
 
 ## Java-Lang Programmer Tools
 https://github.com/java-decompiler/jd-gui ``` A standalone Java Decompiler GUI ```    
+https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine
 https://github.com/Konloch/bytecode-viewer/ ``` Java Bytecode Viewer ```    
 https://github.com/ingokegel/jclasslib  ``` compiled Java class files and the contained bytecode ```    
 
