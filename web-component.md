@@ -23,6 +23,9 @@ https://github.com/Okazari/Rythm.js    makes your page dance
 
 https://github.com/jabbany/CommentCoreLibrary   弹幕
 
+https://github.com/transloadit/uppy    file uploader for web browsers
+
+
 
 https://github.com/DataTables/DataTablesSrc
 
