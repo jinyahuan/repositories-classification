@@ -32,3 +32,5 @@ http://samherbert.net/svg-loaders/
 https://github.com/FortAwesome/Font-Awesome
 
 https://github.com/icons8/titanic
+
+https://github.com/twitter/twemoji
