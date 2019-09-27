@@ -14,6 +14,8 @@ https://github.com/golang/go
 
 https://github.com/Microsoft/TypeScript
 
+https://github.com/nim-lang/Nim    
+
 https://github.com/apple/swift
 
 https://github.com/python/cpython
