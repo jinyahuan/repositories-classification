@@ -1,31 +1,38 @@
 # programming language
 
-https://github.com/JuliaLang/julia
+## C
+[clojure](https://github.com/clojure/clojure)    
+[crystal](https://github.com/crystal-lang/crystal)    
 
-https://github.com/ruby/ruby
+## D
+[dart](https://github.com/dart-lang/sdk)    
 
-https://github.com/crystal-lang/crystal
+## G
+[go](https://github.com/golang/go)    
 
-https://github.com/scala/scala
+## J
+[julia](https://github.com/JuliaLang/julia)    
 
-https://github.com/JetBrains/kotlin
+## K
+[kotlin](https://github.com/JetBrains/kotlin)    
 
-https://github.com/golang/go
+## N
+[nim](https://github.com/nim-lang/Nim)    
 
-https://github.com/Microsoft/TypeScript
+## P
+[python](https://github.com/python/cpython)    
 
-https://github.com/nim-lang/Nim    
+## R
+[rust](https://github.com/rust-lang/book)    
+[ruby](https://github.com/ruby/ruby)    
 
-https://github.com/apple/swift
+## S
+[scala](https://github.com/scala/scala)    
+[solidity](https://github.com/ethereum/solidity)    
+[swift](https://github.com/apple/swift)    
 
-https://github.com/python/cpython
+## T
+[typescript](https://github.com/Microsoft/TypeScript)    
 
-https://github.com/clojure/clojure
-
-https://github.com/rust-lang/book
-
-https://github.com/ethereum/solidity  
-
-https://github.com/dart-lang/sdk    
-
-https://github.com/vlang/v    
+## V
+[v](https://github.com/vlang/v)    
