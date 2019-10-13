@@ -30,6 +30,7 @@ https://github.com/h5bp/Front-end-Developer-Interview-Questions
 https://github.com/InterviewMap/CS-Interview-Knowledge-Map    
 https://github.com/krasimir/react-in-patterns    
 https://github.com/leonardomso/33-js-concepts    
+[fe-interview](https://github.com/haizlin/fe-interview)    
 https://github.com/yangshun/front-end-interview-handbook    
 
 ## Python
@@ -45,3 +46,6 @@ https://github.com/doocs/advanced-java
 https://github.com/jobbole/awesome-java-cn    
 https://github.com/Snailclimb/JavaGuide    
 https://github.com/ZhongFuCheng3y/3y    
+[javacore](https://github.com/dunwu/javacore)    
+[Java-Interview](https://github.com/gzc426/Java-Interview)    
+[my-offer-to-java](https://github.com/zanwen/my-offer-to-java)    
