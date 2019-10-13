@@ -11,6 +11,7 @@
 [go](https://github.com/golang/go)    
 
 ## J
+[java](https://github.com/openjdk/jdk)    
 [julia](https://github.com/JuliaLang/julia)    
 
 ## K
@@ -20,6 +21,7 @@
 [nim](https://github.com/nim-lang/Nim)    
 
 ## P
+___[php](https://github.com/php/php-src)___   
 [python](https://github.com/python/cpython)    
 
 ## R
@@ -32,7 +34,7 @@
 [swift](https://github.com/apple/swift)    
 
 ## T
-[typescript](https://github.com/Microsoft/TypeScript)    
+___[typescript](https://github.com/Microsoft/TypeScript)___    
 
 ## V
 [v](https://github.com/vlang/v)    
