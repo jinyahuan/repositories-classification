@@ -25,3 +25,7 @@ https://github.com/clojure/clojure
 https://github.com/rust-lang/book
 
 https://github.com/ethereum/solidity  
+
+https://github.com/dart-lang/sdk    
+
+https://github.com/vlang/v    
