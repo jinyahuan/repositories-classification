@@ -11,6 +11,7 @@ there has some classification of repositories
 
 * [machine-learning][machine-learning_uri]
 
+* [operating-system](https://github.com/jinyahuan/repositories-classification/blob/master/operating-system.md)
 * [organization][organization_uri]
 
 * [programming-language][programming-language_uri]
