@@ -22,7 +22,6 @@ https://github.com/Microsoft/winfile
 
 
 ## Notepad, Source Code Editor
-https://github.com/notepad-plus-plus/notepad-plus-plus    
 https://github.com/Microsoft/vscode    
 https://github.com/atom/atom    
 
