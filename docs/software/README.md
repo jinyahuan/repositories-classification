@@ -18,7 +18,12 @@ https://github.com/sumatrapdfreader/sumatrapdf
 https://github.com/Microsoft/winfile    
 
 ## Notepad, Source Code Editor
+### VS Code
 https://github.com/Microsoft/vscode    
+#### Help
+* Windows OS: 打开软件后，UI 黑屏
+  * 可能需要安装高版本的[.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework), more see [Setup - Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows)
+### Atom
 https://github.com/atom/atom    
 
 ## ? Proxy
