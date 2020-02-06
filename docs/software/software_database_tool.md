@@ -1,4 +1,4 @@
-# Software - Mind Mapping (思维导图软件)
+# Software - Database Tools (数据库工具)
 
 ### MySQL Workbench
 > * [MySQL Workbench Community Edition, Homepage](https://www.mysql.com/products/community/)
