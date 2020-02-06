@@ -2,8 +2,9 @@
 Here are some repositories about software
 
 * [Database Tools (数据库工具)][software_database_tool]
-* [Screen Recording (录屏软件)][software_screen_recording]
 * [Mind Mapping (思维导图软件)][software_mind_mapping]
+* [Operating System (操作系统)][software_operating_system]
+* [Screen Recording (录屏软件)][software_screen_recording]
 
 
 ## Java-Lang Programmer Tools
@@ -45,4 +46,5 @@ https://github.com/chenall/grub4dos
 
 [software_database_tool]:    software_database_tool.md
 [software_mind_mapping]:     software_mind_mapping.md
+[software_operating_system]: software_operating_system.md
 [software_screen_recording]: software_screen_recording.md
