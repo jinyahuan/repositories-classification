@@ -2,6 +2,7 @@
 Here are some repositories about software
 
 * [Database Tools (数据库工具)][software_database_tool]
+* [Media Player (媒体（视频、音频等）播放器)][software_media_player]
 * [Mind Mapping (思维导图软件)][software_mind_mapping]
 * [Operating System (操作系统)][software_operating_system]
 * [Screen Recording (录屏软件)][software_screen_recording]
@@ -35,9 +36,6 @@ https://github.com/getlantern/lantern
 ## Double-Entry Accounting
 https://github.com/Gnucash/gnucash    
 
-## Video Player
-https://github.com/videolan/vlc    
-
 --------
 
 https://github.com/chenall/grub4dos    
@@ -45,6 +43,7 @@ https://github.com/chenall/grub4dos
 
 
 [software_database_tool]:    software_database_tool.md
+[software_media_player]:     software_media_player.md
 [software_mind_mapping]:     software_mind_mapping.md
 [software_operating_system]: software_operating_system.md
 [software_screen_recording]: software_screen_recording.md
