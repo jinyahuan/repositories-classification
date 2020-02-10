@@ -20,12 +20,3 @@
 > * License: GNU GENERAL PUBLIC LICENSE Version 2
 > * Copyright: 
 > * Remark: 
-
---------
-
-### foobar2000
-> * [Homepage](http://www.foobar2000.org/)
-> * Project On UNKNOWN
-> * License: see [foobar2000 license](http://www.foobar2000.org/license)
-> * Copyright: 
-> * Remark: 
