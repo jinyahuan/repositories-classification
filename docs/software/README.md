@@ -6,6 +6,7 @@ Here are some repositories about software
 * [Mind Mapping (思维导图软件)][software_mind_mapping]
 * [Operating System (操作系统)][software_operating_system]
 * [Screen Recording (录屏软件)][software_screen_recording]
+* [Text Editor (文本编辑器（记事本，开发用的源码编辑器等）)][software_text_editor]
 
 
 ## Java-Lang Programmer Tools
@@ -19,15 +20,6 @@ https://github.com/sumatrapdfreader/sumatrapdf
 
 ## Windows File Manager
 https://github.com/Microsoft/winfile    
-
-## Notepad, Source Code Editor
-### VS Code
-https://github.com/Microsoft/vscode    
-#### Help
-* Windows OS: 打开软件后，UI 黑屏
-  * 可能需要安装高版本的[.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework), more see [Setup - Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows)
-### Atom
-https://github.com/atom/atom    
 
 ## ? Proxy
 https://github.com/shadowsocks/shadowsocks-windows    
@@ -47,3 +39,4 @@ https://github.com/chenall/grub4dos
 [software_mind_mapping]:     software_mind_mapping.md
 [software_operating_system]: software_operating_system.md
 [software_screen_recording]: software_screen_recording.md
+[software_text_editor]:      software_text_editor.md
