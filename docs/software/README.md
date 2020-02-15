@@ -2,6 +2,7 @@
 Here are some repositories about software
 
 * [Database Tools (数据库工具)][software_database_tool]
+* [Financial Accounting (对财务进行记账)][software_financial_accounting]
 * [Media Player (媒体（视频、音频等）播放器)][software_media_player]
 * [Mind Mapping (思维导图软件)][software_mind_mapping]
 * [Operating System (操作系统)][software_operating_system]
@@ -25,18 +26,16 @@ https://github.com/Microsoft/winfile
 https://github.com/shadowsocks/shadowsocks-windows    
 https://github.com/getlantern/lantern    
 
-## Double-Entry Accounting
-https://github.com/Gnucash/gnucash    
-
 --------
 
 https://github.com/chenall/grub4dos    
 
 
 
-[software_database_tool]:    software_database_tool.md
-[software_media_player]:     software_media_player.md
-[software_mind_mapping]:     software_mind_mapping.md
-[software_operating_system]: software_operating_system.md
-[software_screen_recording]: software_screen_recording.md
-[software_text_editor]:      software_text_editor.md
+[software_database_tool]:        software_database_tool.md
+[software_financial_accounting]: software_financial_accounting.md
+[software_media_player]:         software_media_player.md
+[software_mind_mapping]:         software_mind_mapping.md
+[software_operating_system]:     software_operating_system.md
+[software_screen_recording]:     software_screen_recording.md
+[software_text_editor]:          software_text_editor.md
