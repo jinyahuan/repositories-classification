@@ -12,14 +12,14 @@
 
 ### Atom
 > * [Homepage](https://atom.io/)
-> * [Project On Website](https://github.com/atom/atom)
+> * [Project On Github](https://github.com/atom/atom)
 > * License: MIT License
 > * Copyright: GitHub Inc.
 > * Remark: 
 
 ### ~~Notepad++~~
 > * [Homepage](https://notepad-plus-plus.org/)
-> * [Project On Website](https://github.com/notepad-plus-plus/notepad-plus-plus)
+> * [Project On Github](https://github.com/notepad-plus-plus/notepad-plus-plus)
 > * License: [see License](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/LICENSE)
 > * Copyright: 
 > * Remark: 不建议    
