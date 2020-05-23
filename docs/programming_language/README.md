@@ -6,6 +6,8 @@
 
 ## D
 [dart](https://github.com/dart-lang/sdk)    
+### dlang
+* [DMD](https://github.com/dlang/dmd)
 
 ## G
 [go](https://github.com/golang/go)    
