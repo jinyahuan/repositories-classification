@@ -39,4 +39,7 @@ ___[php](https://github.com/php/php-src)___
 ___[typescript](https://github.com/Microsoft/TypeScript)___    
 
 ## V
-[v](https://github.com/vlang/v)    
+[v-lang](https://github.com/vlang/v)    
+
+## Z
+[zig-lang](https://github.com/ziglang/zig)
